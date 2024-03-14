@@ -1,4 +1,8 @@
-# jsp-servlet-jdbc-mysql-crud-tutorial
-JSP Servlet JDBC MySQL CRUD Example Tutorial 
+## Java Assignment
+## Submitted by 
+## Name :- Nitish Kumar
+## Enrollment-no :- A35404821022
+## Course :-  BCA 6th Semester
+### Advanced Java Programming	
 
-https://www.javaguides.net/2019/03/jsp-servlet-jdbc-mysql-crud-example-tutorial.html
+
